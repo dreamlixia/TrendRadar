@@ -1,8 +1,43 @@
-胖东来
-于东来
+# 发现干扰内容后，加入过滤词
+人工智能
+大模型
+AI
+ChatGPT
+DeepSeek
+Gemini
++技术
+!广告
+!培训
+
+谷歌
+google
+gemini
+deepmind
+
+chatgpt
+openai
+sora
+
+claude
+Anthropic
+
+ai
+!gai
+人工智能
+
+自动驾驶
+
+机器人
 
 DeepSeek
 梁文锋
+
+字节
+bytedance
+张一鸣
+
+胖东来
+于东来
 
 华为
 鸿蒙
@@ -45,10 +80,6 @@ DJI
 京东
 刘强东
 
-字节
-bytedance
-张一鸣
-
 特斯拉
 马斯克
 
@@ -61,30 +92,10 @@ NVIDIA
 
 AMD
 
-谷歌
-google
-gemini
-deepmind
-
-chatgpt
-openai
-sora
-
-claude
-Anthropic
-
 iphone
 ipad
 mac
 ios
-
-ai
-!gai
-人工智能
-
-自动驾驶
-
-机器人
 
 国产
 中国
@@ -111,14 +122,3 @@ ai
 宇宙
 飞船
 航空
-
-# 发现干扰内容后，加入过滤词
-人工智能
-大模型
-AI
-ChatGPT
-DeepSeek
-Gemini
-+技术
-!广告
-!培训
